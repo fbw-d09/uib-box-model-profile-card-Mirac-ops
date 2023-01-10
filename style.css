@@ -1,0 +1,22 @@
+#vorname{
+    color: rgb(240, 59, 3);
+    font-size: 35px;
+    position: absolute;
+    bottom: 83%;
+    left: 38%;
+    background-color: rgb(232, 223, 212);
+    padding: 3px 10px;
+    border-radius: 9px;
+}
+
+#nachname{
+    color: rgb(222, 27, 27);
+    font-size: 35px;
+    text-align: center;
+    position: absolute;
+    background-color: rgb(232, 223, 212);
+    padding: 3px 10px;
+    border-radius: 9px;
+    right: 55%;
+    bottom: 73%;
+}
